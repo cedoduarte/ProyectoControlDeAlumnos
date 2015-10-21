@@ -1,0 +1,14 @@
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\bin\Debug\ProyectoControlDeAlumnos.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.csprojResolveAssemblyReference.cache
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.LogIn.resources
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\bin\Debug\ProyectoControlDeAlumnos.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\bin\Debug\ProyectoControlDeAlumnos.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.exe
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.MainWindow.resources
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.AltaAlumno.resources
+C:\Users\cedo\Documents\Visual Studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\obj\Debug\ProyectoControlDeAlumnos.ConsultaAlumno.resources
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoControlDeAlumnos\ProyectoControlDeAlumnos\bin\Debug\AForge.Video.dll
