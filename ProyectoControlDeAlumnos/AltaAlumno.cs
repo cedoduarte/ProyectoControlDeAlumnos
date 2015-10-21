@@ -61,7 +61,7 @@ namespace ProyectoControlDeAlumnos
                     return;
                 }
                 alumnos.Add(alumno);
-                Dispose();
+                Close();
             }
             catch (Exception ex)
             {
@@ -77,7 +77,7 @@ namespace ProyectoControlDeAlumnos
         private void examinarButton_Click(object sender, EventArgs e)
         {
             var d = new OpenFileDialog();
-            d.Filter = "Imagen PNG|*.png|Imagen JPG|*.jpg|All files (*.*)|*.*";
+            d.Filter = "All files (*.*)|*.*|Imagen PNG|*.png|Imagen JPG|*.jpg";
             d.Title = "Abrir imagen";
             if (d.ShowDialog() == DialogResult.Cancel)
             {
